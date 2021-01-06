@@ -8,7 +8,7 @@ http://rendti.com.br/examples/fullstack/vue/dashboard/
 
 admin@admin.com   /    admin 
 
-<img src="http://www.rendti.com.br/examples/fullstack/vue/2021-01-06-17-15-17.gif" />
+<img src="http://www.rendti.com.br/examples/fullstack/vue/2021-01-06-18-03-43.gif" />
 
 ## BackEnd APIs
 
